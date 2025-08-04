@@ -1,0 +1,29 @@
+[
+    {
+        "nombre": "A Programar",
+        "descripcion": "Curso de desarrollo web orientado a enseñar los primeros pasos en HTML y CSS.",
+        "github": "",
+        "img": "/public/images/projects/academia.png",
+        "enlace": "https://academia.sanvidev.com", 
+        "tipo" : "web",
+        "tecnologias" : ["Astro"]
+    },
+    {
+        "nombre": "Keyboard Pro",
+        "descripcion": "Juego que calcula la velocidad y porcentaje de acierto en tipeo por minuto.",
+        "github": "https://github.com/SanviDev/Keyboard-Pro-Game",
+        "img": "/public/images/projects/keyboardpro.png",
+        "enlace": "https://keyboardpro.netlify.app/", 
+        "tipo" : "web",
+        "tecnologias" : ["JavaScript"]
+    },
+    {
+        "nombre": "Navaja Suiza App",
+        "descripcion": "Aplicacion Todo En Uno para android con distintos modulos. Todo lo que necesitas en un solo lugar. ",
+        "github": "https://github.com/SanviDev/NavajaSuizaApp.git",
+        "img": "/public/images/projects/navajasuiza.png",
+        "enlace": "", 
+        "tipo" : "movil",
+        "tecnologias" : ["Flutter"]
+    }
+]
