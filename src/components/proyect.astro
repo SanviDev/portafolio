@@ -1,6 +1,10 @@
 <section id="projects">
-    <h2>Proyectos Destacados</h2>
-    <p>Selección de algunos proyectos y trabajos webs y móviles recientes</p>
+    <div class="title">
+        <h2>Proyectos Destacados</h2>
+        <p>
+            Selección de algunos proyectos y trabajos webs y móviles recientes
+        </p>
+    </div>
 
     <div class="toogle">
         <div class="item">
@@ -148,6 +152,11 @@
         margin: 2rem;
         padding: 3rem;
     }
+    @media (width<750px) {
+        .title {
+            padding: 3rem 2rem 0rem 2rem;
+        }
+    }
 </style>
 <style is:global>
     .proyecto-card {
@@ -219,4 +228,5 @@
         text-transform: uppercase;
         font-weight: bold;
     }
+   
 </style>
